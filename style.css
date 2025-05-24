@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #f6f6f6;
+  color: #333;
+}
+header {
+  background: #333;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+main {
+  padding: 2rem;
+}
+footer {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #777;
+  padding: 2rem;
+}
